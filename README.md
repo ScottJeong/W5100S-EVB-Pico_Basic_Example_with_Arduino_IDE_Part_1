@@ -23,8 +23,8 @@ The following examples are included in this repository:
 1.  **Ethernet Initialization**: Initialize the W5100S Ethernet controller, check its status, and print the network configuration.
 2.  **DHCP IP Address**: Request an IP address from a DHCP server on your local network and print the assigned IP address.
 3.  **Static IP Address**: Set a static IP address for the W5100S-EVB-Pico and print the network configuration.
-4.  **TCP Client**: Create a simple TCP client that connects to a remote server, sends a message, and receives a response.
-5.  **TCP Server**: Implement a basic TCP server that listens for incoming connections, receives messages, and sends a response.
+4.  ~~**TCP Client**: Create a simple TCP client that connects to a remote server, sends a message, and receives a response.~~ **Comming Soon**
+5.  ~~**TCP Server**: Implement a basic TCP server that listens for incoming connections, receives messages, and sends a response.~~ **Comming Soon**
 6.  ~~**UDP Sender**: Send UDP packets to a remote IP address and port.~~ **Comming Soon**
 7.  ~~**UDP Receiver**: Listen for incoming UDP packets and print their content.~~ **Comming Soon**
 8.  ~~**Web Client**: Connect to a web server, request a webpage, and print the HTTP response.~~ **Comming Soon**
