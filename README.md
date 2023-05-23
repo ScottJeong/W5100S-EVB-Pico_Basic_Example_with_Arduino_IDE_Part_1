@@ -25,8 +25,8 @@ The following examples are included in this repository:
 3.  **Static IP Address**: Set a static IP address for the W5100S-EVB-Pico and print the network configuration.
 4.  **TCP Client**: Create a simple TCP client that connects to a remote server, sends a message, and receives a response.
 5.  **TCP Server**: Implement a basic TCP server that listens for incoming connections, receives messages, and sends a response.
-6.  **UDP Sender**: Send UDP packets to a remote IP address and port.
-7.  **UDP Receiver**: Listen for incoming UDP packets and print their content.
+6.  ~~**UDP Sender**: Send UDP packets to a remote IP address and port.~~ **Comming Soon**
+7.  ~~**UDP Receiver**: Listen for incoming UDP packets and print their content.~~ **Comming Soon**
 8.  ~~**Web Client**: Connect to a web server, request a webpage, and print the HTTP response.~~ **Comming Soon**
 9.  ~~**Web Server**: Create a simple web server that serves a basic HTML page when accessed from a web browser.~~ **Comming Soon**
 10.  ~~**DNS Resolution**: Resolve a domain name to its IP address using the Domain Name System (DNS) and print the result.~~ **Comming Soon**
